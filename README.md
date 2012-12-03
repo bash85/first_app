@@ -1,7 +1,11 @@
-# Ruby on Rails Tutorial: first application
+# Ruby on Rails my First Application
 
-This is the first application for
-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
-by [Bashar Hammouri]
+This is the first application for me in Ruby
 
+Done by [Bashar Hammouri]
 Supervised by [David Fradis]
+
+Date: [Dec. 04, 2012]
+
+
+You can check [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) for more toturials.
